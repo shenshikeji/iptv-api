@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-21 07:03:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-21 19:06:13,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1533,6 +1533,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 洛阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8
 河南都市,https://migu.188766.xyz/?migutoken=b0256872361a062774c5e309589b89b0&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
 河南都市,https://migu.188766.xyz/?migutoken=7c65f175cc7c3a39bccf116d50e38a0f&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
 河南都市,https://migu.188766.xyz/?migutoken=bf7d755f4ecae0b5ffa1255d1ae38731&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
