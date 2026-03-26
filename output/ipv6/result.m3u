@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/shenshikeji/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-03-26 07:14:01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-03-26 19:35:56
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -645,6 +645,8 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 https://t.freetv.fun/live/hei-long-jiang-wei-shi-1.php
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+https://t.freetv.fun/live/hei-long-jiang-wei-shi-10.php
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="📡卫视频道",安徽卫视
@@ -3865,6 +3867,8 @@ https://t.freetv.fun/live/chcjia-ting-ying-yuan-12.m3u8
 https://t.freetv.fun/live/chcjia-ting-ying-yuan-13.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://t.freetv.fun/live/chcjia-ting-ying-yuan-9.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
